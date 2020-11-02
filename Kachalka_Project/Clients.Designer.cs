@@ -316,7 +316,7 @@
             this.Controls.Add(this.label2);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Clients";
-            this.Text = "Clients";
+            this.Text = "Клиенты";
             this.ResumeLayout(false);
             this.PerformLayout();
 
